@@ -1,0 +1,10 @@
+{
+    "welcome": "Welcome to Data Insights Analyzer",
+    "unsupported_format": "Unsupported file format. Use CSV or Excel.",
+    "error_occurred": "An error occurred",
+    "shape": "Dataset shape (rows, columns)",
+    "columns": "Columns",
+    "basic_stats": "Basic statistical summary",
+    "nulls": "Missing values per column",
+    "correlation_matrix": "Correlation matrix"
+}

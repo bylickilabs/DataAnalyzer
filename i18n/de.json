@@ -1,0 +1,10 @@
+{
+    "welcome": "Willkommen beim Data Insights Analyzer",
+    "unsupported_format": "Nicht unterstütztes Dateiformat. Bitte CSV oder Excel verwenden.",
+    "error_occurred": "Ein Fehler ist aufgetreten",
+    "shape": "Datenform (Zeilen, Spalten)",
+    "columns": "Spalten",
+    "basic_stats": "Statistische Grundauswertung",
+    "nulls": "Fehlende Werte pro Spalte",
+    "correlation_matrix": "Korrelationsmatrix"
+}
