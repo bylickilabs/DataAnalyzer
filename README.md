@@ -1,5 +1,7 @@
 # 📊 Data Insights Analyzer
 
+<img width="1280" height="640" alt="DataAnalyzer" src="https://github.com/user-attachments/assets/ccda7bbe-7c8d-4be4-b084-8d08fd0ec96d" />
+
 > **Data Insights Analyzer** is a multilingual, production-grade command-line tool for analyzing structured datasets using **pandas**. 
   - It supports CSV and Excel files, provides detailed statistical summaries, and enables correlation and null-value inspection 
     - all in your preferred language (currently English and German).
